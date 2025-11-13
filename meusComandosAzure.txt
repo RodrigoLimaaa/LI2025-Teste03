@@ -1,0 +1,26 @@
+    1  susdo apt update
+    2  sudo apt update
+    3  sudo apt upgrade -y
+    4  sudo update -y
+    5  sudo apt upgrade -y
+    6  sudo apt install apache2
+    7  sudo systemctl start apache2
+    8  sudo systemctl enable apache2
+    9  git
+   10  ls -all
+   11  git pull origin main
+   12  sudo systemctl status apache2
+   13  cd /var/www/html
+   14  ls
+   15  sudo vi index.html
+   16  pwd
+   17  clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   18  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   19  cd teste
+   20  cd teste3
+   21  cd LI2025-Teste03
+   22  New-Item -Path "C:\Users\SeuNome\Documentos\NovaPasta" -ItemType Directory
+   23  New-Item -Path "C:\Users\rodrigolima31\downloads" -ItemType Directory
+   24  mkdir "C:\Users\rodrigolima31\Downloads\131478"
+   25  git pull origin main
+   26  history > meusComandosAzure.txt
