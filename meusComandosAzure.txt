@@ -13,14 +13,65 @@
    13  cd /var/www/html
    14  ls
    15  sudo vi index.html
-   16  pwd
-   17  clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
-   18  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
-   19  cd teste
-   20  cd teste3
-   21  cd LI2025-Teste03
-   22  New-Item -Path "C:\Users\SeuNome\Documentos\NovaPasta" -ItemType Directory
-   23  New-Item -Path "C:\Users\rodrigolima31\downloads" -ItemType Directory
-   24  mkdir "C:\Users\rodrigolima31\Downloads\131478"
-   25  git pull origin main
-   26  history > meusComandosAzure.txt
+   16  echo %cd%
+   17  bash
+   18  pwd
+   19  clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   20  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   21  cd teste
+   22  cd teste3
+   23  cd LI2025-Teste03
+   24  New-Item -Path "C:\Users\SeuNome\Documentos\NovaPasta" -ItemType Directory
+   25  New-Item -Path "C:\Users\rodrigolima31\downloads" -ItemType Directory
+   26  mkdir "C:\Users\rodrigolima31\Downloads\131478"
+   27  git pull origin main
+   28  history > meusComandosAzure.txt
+   29  cat meusComandosAzure.txt
+   30  git add . && git commit -m "history azure" && git push origin main
+   31  git push
+   32  pwd
+   33  cd LI2025-Teste03
+   34  git push
+   35  dir
+   36  mkdir 131478
+   37  dir
+   38  cd 131478
+   39  "Teste de LI 2025/2026." | Out-File -Encoding utf8 README.md
+   40  echo "Teste de LI 2025/2026." > README.md
+   41  cd ..
+   42  git add.
+   43  git add .
+   44  .git
+   45  git pull origin main
+   46  git init
+   47  https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   48  git cone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   49  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   50  cat LI025-Teste03.git
+   51  cat 1314678
+   52  dir
+   53  cat 131478
+   54  dir 131478
+   55  dir
+   56  dir LI2025-Teste03
+   57  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
+   58  cd LI2025-Teste03
+   59  cd 131478
+   60  dir 131478
+   61  mkdir 131478
+   62  cd 131478
+   63  "Teste de LI 2025/2026." | Out-File -Encoding utf8 README.md
+   64  echo "Teste de LI 2025/2026." > README.md
+   65  dir
+   66  cd..
+   67  cd ..
+   68  git push main
+   69  git init
+   70  git branch -M main
+   71  git remote add origin https://github.com/<teuUser>/<repo>.git
+   72  git init
+   73  git branch -M main
+   74  git remote add origin https://github.com/<teuUser>/<repo>.git
+   75  git init
+   76  git pull origin main
+   77  history > meusComandosAzure.txt
