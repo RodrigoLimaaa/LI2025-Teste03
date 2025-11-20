@@ -87,3 +87,6 @@
    87  cat meusComandosAzure.txt
    88  git add . && git commit -m "history azure" && git push origin main
    89  history > meusComandosAzure.txt
+   90  cat meusComandosAzure.txt
+   91  git add . && git commit -m "history azure" && git push origin main
+   92  history > meusComandosAzure.txt
