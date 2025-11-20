@@ -33,63 +33,7 @@
    33  cd LI2025-Teste03
    34  git push
    35  dir
-   36  mkdir 131478
-   37  dir
-   38  cd 131478
-   39  "Teste de LI 2025/2026." | Out-File -Encoding utf8 README.md
-   40  echo "Teste de LI 2025/2026." > README.md
-   41  cd ..
-   42  git add.
-   43  git add .
-   44  .git
-   45  git pull origin main
-   46  git init
-   47  https://github.com/RodrigoLimaaa/LI2025-Teste03.git
-   48  git cone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
-   49  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
-   50  cat LI025-Teste03.git
-   51  cat 1314678
-   52  dir
-   53  cat 131478
-   54  dir 131478
-   55  dir
-   56  dir LI2025-Teste03
-   57  git clone https://github.com/RodrigoLimaaa/LI2025-Teste03.git
-   58  cd LI2025-Teste03
-   59  cd 131478
-   60  dir 131478
-   61  mkdir 131478
-   62  cd 131478
-   63  "Teste de LI 2025/2026." | Out-File -Encoding utf8 README.md
-   64  echo "Teste de LI 2025/2026." > README.md
-   65  dir
-   66  cd..
-   67  cd ..
-   68  git push main
-   69  git init
-   70  git branch -M main
-   71  git remote add origin https://github.com/<teuUser>/<repo>.git
-   72  git init
-   73  git branch -M main
-   74  git remote add origin https://github.com/<teuUser>/<repo>.git
-   75  git init
-   76  git pull origin main
-   77  history > meusComandosAzure.txt
-   78  cat meusComandosAzure.txt
-   79  git add . && git commit -m "history azure" && git push origin main
-   80  history > meusComandosAzure.txt
-   81  cat meusComandosAzure.txt
-   82  git add . && git commit -m "history azure" && git push origin main
-   83  history > meusComandosAzure.txt
-   84  cat meusComandosAzure.txt
-   85  git add . && git commit -m "history azure" && git push origin main
-   86  history > meusComandosAzure.txt
-   87  cat meusComandosAzure.txt
-   88  git add . && git commit -m "history azure" && git push origin main
-   89  history > meusComandosAzure.txt
-   90  cat meusComandosAzure.txt
-   91  git add . && git commit -m "history azure" && git push origin main
-   92  history > meusComandosAzure.txt
-   93  cat meusComandosAzure.txt
-   94  git add . && git commit -m "history azure" && git push origin main
-   95  history > meusComandosAzure.txt
+   36  dir LI2025-Teste03
+   37  cd LI2025-Teste03
+   38  git pull origin main
+   39  history > meusComandosAzure.txt
