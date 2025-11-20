@@ -37,3 +37,7 @@
    37  cd LI2025-Teste03
    38  git pull origin main
    39  history > meusComandosAzure.txt
+   40  cat meusComandosAzure.txt
+   41  git add . && git commit -m "history azure" && git push origin main
+   42  cat meusComandosAzure.txt
+   43  history > meusComandosAzure.txt
