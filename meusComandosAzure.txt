@@ -41,3 +41,18 @@
    41  git add . && git commit -m "history azure" && git push origin main
    42  cat meusComandosAzure.txt
    43  history > meusComandosAzure.txt
+   44  cat meusComandosAzure.txt
+   45  git add . && git commit -m "history azure" && git push origin main
+   46  dir
+   47  git add . && git commit -m "history azure" && git push origin main
+   48  git push 
+   49  git commit
+   50  git push main
+   51  git push
+   52  git push meusComandosLOCAIS.txt
+   53  git status
+   54  cat meusComandosAzure.txt
+   55  dir
+   56  cd LI2025-Teste03
+   57  cat meusComandosAzure.txt
+   58  history > meusComandosAzure.txt
